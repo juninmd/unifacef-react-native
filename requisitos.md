@@ -25,7 +25,9 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 [Python2](https://www.python.org/ftp/python/2.7.2/python-2.7.2.amd64.msi)
 > Linguagem de programação utilizada para compilar determinados scripts
 
-[JDK8](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
+[JDK8 Oracle](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
+
+[JDK8 Comunity](https://mega.nz/#F!EolCyShY!D0QUZdcafG1mUXbqWywFsg)
 > Framework do Java
 
 ou caso queira instalar com o Chocolatey
