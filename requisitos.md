@@ -60,6 +60,8 @@ c:\Users\\<SEU_USUÁRIO>\\AppData\Local\Android\Sdk\platform-tools
 C:\Program Files\Java\jdk1.8.0_211\bin
 ```
 
+# Aceitando licensas do Android SDK
+
 Execute esse script no seu Powershell para aceitar licenças do android SDK
 
 ```
