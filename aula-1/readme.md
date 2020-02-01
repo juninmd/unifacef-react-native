@@ -1,14 +1,14 @@
-## Aula 1
+# Aula 1
 
 [Requisitos](../requisitos.md)
 
-### Arquitetura
+## Arquitetura
 
 ![arquitetura](../images/arquitetura.png)
 
 ----
 
-### Revisão da linguagem de programação JavaScript
+## Revisão da linguagem de programação JavaScript
 
 - Conhecendo um pouco sobre JavaScript
 - Palavras Reservadas
@@ -22,7 +22,8 @@
 - Promises
 - Promises com async/await
 
-## Funções
+### Funções
+
 > São muito utilizadas no dia dia, vamos dar alguns exemplos de declarações de funções.
 
 ```javascript
@@ -30,6 +31,7 @@ console.log('oii'); // oii
 ```
 
 > Exemplos: ES5
+
 ```javascript
 var x = function(x, y) {
      return x * y;
@@ -41,7 +43,9 @@ function x(a, b) {
     return a * b;
 }
 ```
+
 > Exemplo: ES6 | Arrow Functions
+
 ```javascript
 const x = (x, y) => x * y;
 ```
@@ -55,8 +59,8 @@ myFunction(5); // 15
 ```
 
 ## String
-```javascript
 
+```javascript
 const hello = "hello, world";
 
 hello.replace("hello", "goodbye"); // goodbye, world
@@ -68,6 +72,7 @@ hello.replace("hello", "goodbye"); // goodbye, world
 ## Objetos
 
 > Exemplo: Aqui podemos criar objetos (entidades)
+
 ```javascript
 const pessoa = {
   nome: 'Jorge',
@@ -80,6 +85,7 @@ console.log(pessoa.nome); // Jorge
 ## Comparação
 
 > Exemplo: Aqui comparamos se a idade é menor que 18
+
 ```javascript
 const age = 18;
 if (age < 18) {
@@ -90,14 +96,18 @@ if (age < 18) {
 ```
 
 ## Condição Ternária
+
 > Exemplo: Fazemos o mesmo utilizando apenas uma linha
+
 ```javascript
 const age = 18;
 const pessoa = (age < 18) ? "Jovem": "Adulto";
 ```
 
 ## Rest Params
+
 > Exemplo: Podemos passar vários argumentos
+
 ```javascript
 function(a, b, ...args) {
   // .console.log(a) = ?
@@ -107,7 +117,9 @@ function(a, b, ...args) {
 ```
 
 ## Destruct
+
 > Você pode quebrar um objeto, separando seus atributos.
+
 ```javascript
 const pessoa = {
   nome: 'Jorge',
@@ -139,7 +151,9 @@ console.log(a, b, c) // a, [2,3]
 ```
 
 ## CallBack
+
 ```javascript
+
 (() => {
     console.log('exemplo de callback');
 
@@ -170,6 +184,7 @@ function getLista(qtd, callback) {
 ```
 
 ## Promise
+
 ```javascript
 (() => {
     console.log('exemplo de promise');
@@ -202,6 +217,7 @@ function getLista(qtd) {
 ```
 
 ## Async
+
 ```javascript
 (async () => {
     console.log('exemplo de async await');
@@ -236,7 +252,7 @@ async function getLista(qtd) {
 }
 ```
 
----
+----
 
 ## JSX
 
@@ -247,5 +263,9 @@ async function getLista(qtd) {
 ![arquitetura](../images/jsx.jpg)
 
 <https://pt-br.reactjs.org/docs/introducing-jsx.html>
+
+## Criando primeiro APP
+
+<https://expo.io>
 
 [Voltar](../readme.md)
