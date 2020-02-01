@@ -71,6 +71,12 @@ Criar uma nova pasta chamada projetos, e dentro dela executar o seguinte comando
 npx react-native init HelloProject
 ```
 
+Após o download do template, acessar a pasta `HelloProject` e utilizar o seguinte comando:
+
+```
+npx react-native run-android
+```
+
 # Dicas e truques
 
 ```powershell
