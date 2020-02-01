@@ -96,3 +96,19 @@ npx @react-native-community/cli doctor
 
 > Rodar esse comando na pasta do projeto vai ajudar a verificar o que está faltando no seu ambiente
 ![android-home](./images/doctor.jpg)
+
+### Caso dê algum erro generico utilize
+
+```sh
+    cd android && .\gradlew clean
+```
+
+### INSTALL_FAILED_UPDATE_INCOMPATIBLE
+
+```sh
+* What went wrong:
+Execution failed for task ':app:mergeDebugResources
+```
+
+> Significa que você deverá desinstalar a versão anterior no app e instalar a atual novamente
+
