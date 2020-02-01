@@ -57,6 +57,19 @@ Execute esse script no seu Powershell para aceitar licenças do android SDK
  C:\Users\\<SEU_USUÁRIO>\AppData\Local\Android\Sdk\tools\bin\sdkmanager.bat --licenses
 ```
 
+# Criando o primeiro projeto
+
+Dentro da pasta 
+
+```
+C:\USERS\\<SEU_USUÁRIO>\
+```
+
+Criar uma nova pasta chamada projetos, e dentro dela executar o seguinte comando:
+
+```
+npx react-native init HelloProject
+```
 
 # Dicas e truques
 
