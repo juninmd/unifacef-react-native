@@ -249,6 +249,9 @@ function Routes() {
 export default Routes;
 ```
 
+> dentro de containers
+criar pasta home
+
 > dentro de home
 criar arquivo index.tsx
 
