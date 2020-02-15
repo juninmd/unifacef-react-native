@@ -193,6 +193,12 @@ module.exports = {
 };
 ```
 
+Adicione a referência no package.json
+
+```
+yarn add --dev @babel/plugin-proposal-decorators
+```
+
 > na raiz do projeto
 criar pasta ´src´
 
