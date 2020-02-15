@@ -151,10 +151,29 @@ yarn add mobx mobx-react
 yarn add @react-navigation/native @react-navigation/stack babel-plugin-transform-decorators-legacy react-native-safe-area-context react-native-gesture-handler @react-native-community/masked-view react-native-reanimated react-native-screens
 ```
 
-add no topo do arquivo do index.tsx
+o arquivo index.tsx deve ficar:
 
-```js
+```tsx
 import 'react-native-gesture-handler';
+
+import * as Stores from './src/stores';
+
+import { AppRegistry, SafeAreaView } from 'react-native';
+
+import { Provider } from 'mobx-react';
+import React from 'react';
+import Routes from './src/routes';
+import { name as appName } from './app.json';
+
+const ProviderConfigured = () => (
+    <Provider {...Stores}>
+        <SafeAreaView style={{ flex: 1 }}>
+            <Routes />
+        </SafeAreaView>
+    </Provider>
+)
+
+AppRegistry.registerComponent(appName, () => ProviderConfigured);
 ```
 
 Adicione o plugin do babel `babel.config.js`
