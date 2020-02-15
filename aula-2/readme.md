@@ -8,6 +8,19 @@
 
 * <https://github.com/juninmd/typescript-unifacef>
 * <https://github.com/juninmd/etanol-gasolina>
+* <https://github.com/jondot/awesome-react-native>
+* <https://github.com/topics/typescript>
+* <https://github.com/topics/react-native>
+
+## Instalando Yarn
+
+```bash
+  npm i -g yarn
+```
+
+ou
+
+<https://classic.yarnpkg.com/pt-BR/docs/install/#windows-stable>
 
 ## Conhecendo TypeScript
 
