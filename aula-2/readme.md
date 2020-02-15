@@ -299,6 +299,13 @@ export default class Home extends Component<Props> {
 }
 ```
 
+## Após todas as alterações nosso projeto está migrado.
+
+Utilizar o seguinte comando:
+
+```bash
+yarn android
+```
 
 ## Mobx
 
