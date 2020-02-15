@@ -137,7 +137,7 @@ declare module "*.json" {
 }
 ```
 
-renomear todos os arquivos .js para .tsx
+renomear os seguintes arquivoss .js [index.js e app.js] para .tsx
 
 ## Instalando Mobx
 
