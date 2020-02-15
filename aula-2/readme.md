@@ -148,8 +148,7 @@ yarn add mobx mobx-react
 ## Instalando React Navigation
 
 ```bash
-yarn add @react-navigation/native @react-navigation/stack
-babel-plugin-transform-decorators-legacy react-native-safe-area-context react-native-gesture-handler @react-native-community/masked-view react-native-reanimated react-native-screens
+yarn add @react-navigation/native @react-navigation/stack babel-plugin-transform-decorators-legacy react-native-safe-area-context react-native-gesture-handler @react-native-community/masked-view react-native-reanimated react-native-screens
 ```
 
 add to index.tsx
