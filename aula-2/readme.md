@@ -318,3 +318,43 @@ yarn android
 * LifeCycle
 
 ![mobx](../images/mobx.png)
+
+## StyleSheet
+
+> react-native-ui-kitten <https://akveo.github.io/react-native-ui-kitten/>
+
+Para instalar:
+
+```bash
+yarn add @ui-kitten/components @eva-design/eva react-native-svg
+```
+
+Altere o index.tsx para:
+
+```tsx
+import 'react-native-gesture-handler';
+
+import * as Stores from './src/stores';
+
+import { AppRegistry, SafeAreaView } from 'react-native';
+import { light as lightTheme, mapping } from '@eva-design/eva';
+
+import { ApplicationProvider } from '@ui-kitten/components';
+import { Provider } from 'mobx-react';
+import React from 'react';
+import Routes from './src/routes';
+import { name as appName } from './app.json';
+
+const ProviderConfigured = () => (
+    <Provider {...Stores}>
+        <ApplicationProvider mapping={mapping} theme={lightTheme}>
+            <SafeAreaView style={{ flex: 1 }}>
+                <Routes />
+            </SafeAreaView>
+        </ApplicationProvider>
+    </Provider>
+)
+
+AppRegistry.registerComponent(appName, () => ProviderConfigured);
+
+```
