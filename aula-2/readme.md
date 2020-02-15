@@ -37,8 +37,6 @@ yarn add --dev ts-node
 
 - Google <https://github.com/google/gts>
 
--
-
 ## Criando APP em TypeScript
 
 Iniciamos um projeto novo
@@ -113,20 +111,11 @@ criar aquivo tsconfig.json
 criar pasta typings
 adicionar arquivo json.d.ts
 
-```js
+```ts
 declare module "*.json" {
     const value: any;
     export default value;
 }
-```
-
-criar jest.config.js
-
-```javascript
-module.exports = {
-  preset: 'react-native',
-  moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx', 'json', 'node'],
-};
 ```
 
 renomear todos os arquivos .js para .tsx
@@ -163,15 +152,109 @@ Adiciona plugin do babel `babel.config.js`
   ]
 ```
 
-criar pasta ´src´ na raiz
+> na raiz do projeto
+criar pasta ´src´
 
-dentro de src
+> dentro de `src`
+criar pastas
 
 ```text
 /containers
 /routes
 /stores
 ```
+
+> dentro de `stores`
+criar arquivo home.store.tsx
+
+```ts
+import { action, observable } from 'mobx';
+
+export default class HomeStore {
+    @observable numbers = 0;
+
+    @action reset = () => {
+        this.numbers = 0;
+    }
+
+    @action increment = () => {
+        this.numbers += 1;
+    }
+
+}
+const homeStore = new HomeStore();
+export { homeStore };
+```
+
+> dentro de stores
+crie o arquivo index.tsx
+
+```ts
+import { homeStore } from './home.store';
+
+export {
+    homeStore
+}  
+```
+
+> dentro de routes
+criar arquivo index.tsx
+
+```tsx
+import * as React from 'react';
+
+import Home from '../containers/home';
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
+
+const Stack = createStackNavigator();
+
+function Routes() {
+    return (
+        <NavigationContainer>
+            <Stack.Navigator>
+                <Stack.Screen options={{
+                    headerTitle: 'Etanol ou Gasolina?',
+                    headerTintColor: '#ffffff',
+                    headerStyle: {
+                        backgroundColor: '#2b7cd7',
+                    }
+                }} name="Home" component={Home} />
+            </Stack.Navigator>
+        </NavigationContainer>
+    );
+}
+export default Routes;
+```
+
+> dentro de home
+criar arquivo index.tsx
+
+```tsx
+import React, { Component } from 'react';
+import { Text, View } from 'react-native';
+import { inject, observer } from 'mobx-react';
+
+import HomeStore from '../../stores/home.store';
+
+interface Props {
+    homeStore: HomeStore
+}
+
+@inject('homeStore')
+@observer
+export default class Home extends Component<Props> {
+    render() {
+        return (<>
+            <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
+                <Text>Home Screen</Text>
+                <Text>{this.props.homeStore.numbers}</Text>
+            </View>
+        </>);
+    }
+}
+```
+
 
 ## Mobx
 
