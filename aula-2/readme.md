@@ -157,33 +157,21 @@ add no topo do arquivo do index.tsx
 import 'react-native-gesture-handler';
 ```
 
-Adiciona plugin do babel `babel.config.js`
+Adicione o plugin do babel `babel.config.js`
 
-de
-```js
+
+```diff
 module.exports = {
   presets: ['module:metro-react-native-babel-preset'],
-  "plugins": [
-    [
-      "@babel/plugin-proposal-decorators",
-      {
-        "legacy": true
-      }
-    ]
-  ]
++  "plugins": [
++    [
++      "@babel/plugin-proposal-decorators",
++      {
++        "legacy": true
++      }
++    ]
++  ]
 };
-```
-
-para
-```js
- "plugins": [
-    [
-      "@babel/plugin-proposal-decorators",
-      {
-        "legacy": true
-      }
-    ]
-  ]
 ```
 
 > na raiz do projeto
