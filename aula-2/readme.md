@@ -151,7 +151,7 @@ yarn add mobx mobx-react
 yarn add @react-navigation/native @react-navigation/stack babel-plugin-transform-decorators-legacy react-native-safe-area-context react-native-gesture-handler @react-native-community/masked-view react-native-reanimated react-native-screens
 ```
 
-add to index.tsx
+add no topo do arquivo do index.tsx
 
 ```js
 import 'react-native-gesture-handler';
