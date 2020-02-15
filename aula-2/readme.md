@@ -22,6 +22,12 @@ ou
 
 <https://classic.yarnpkg.com/pt-BR/docs/install/#windows-stable>
 
+ou
+
+```bash
+choco install yarn
+````
+
 ## Conhecendo TypeScript
 
 - O que é TypeScript? <https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html>
