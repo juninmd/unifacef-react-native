@@ -36,7 +36,8 @@
 
 ## Exercício 2  
 
-> Consumindo a primeira Web-Api. (Star Wars Api) 
+> Consumindo a primeira Web-Api. (Star Wars Api)
+
 Aplicativo que lista personagens dos filmes do Star Wars
 
 ## Trabalho Final
@@ -45,6 +46,7 @@ Aplicativo que lista personagens dos filmes do Star Wars
 Aplicativo que exibe fotos
 
 [Aula 1](./aula-1/readme.md)
+[Aula 2](./aula-2/readme.md)
 
 ## Links Úteis
 
