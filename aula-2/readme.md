@@ -159,6 +159,22 @@ import 'react-native-gesture-handler';
 
 Adiciona plugin do babel `babel.config.js`
 
+de
+```js
+module.exports = {
+  presets: ['module:metro-react-native-babel-preset'],
+  "plugins": [
+    [
+      "@babel/plugin-proposal-decorators",
+      {
+        "legacy": true
+      }
+    ]
+  ]
+};
+```
+
+para
 ```js
  "plugins": [
     [
@@ -177,9 +193,9 @@ criar pasta ´src´
 criar pastas
 
 ```text
-/containers
-/routes
-/stores
+containers
+routes
+stores
 ```
 
 > dentro de `stores`
