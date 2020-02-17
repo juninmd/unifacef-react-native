@@ -1,6 +1,13 @@
 # Curso React Native
 
-[Requisitos](./requisitos.md)
+* [Requisitos](./requisitos.md)
+* [Contato](./contato.md)
+* [Repositórios dos Alunos](./repositorios.md)
+
+## Aulas
+
+* [Aula 1](./aula-1/readme.md)
+* [Aula 2](./aula-2/readme.md)
 
 ## Objetivo do Módulo
 
@@ -44,9 +51,6 @@ Aplicativo que lista personagens dos filmes do Star Wars
 
 > Instagram Fake Simples
 Aplicativo que exibe fotos
-
-[Aula 1](./aula-1/readme.md)
-[Aula 2](./aula-2/readme.md)
 
 ## Links Úteis
 
