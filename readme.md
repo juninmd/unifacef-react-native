@@ -37,7 +37,7 @@
 
 ## Exercício 1
 
-### Etanol ou Gasolina '?'
+### Etanol ou Gasolina '?' <https://github.com/juninmd/etanol-gasolina>
 
 > Aplicativo que calcula se vale mais pena abastecer Etanol ou Gasolina.
 
