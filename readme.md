@@ -3,11 +3,14 @@
 * [Requisitos](./requisitos.md)
 * [Contato](./contato.md)
 * [Repositórios dos Alunos](./repositorios.md)
+* [Playground TypeScript](https://github.com/juninmd/typescript-unifacef)
+
 
 ## Aulas
 
 * [Aula 1](./aula-1/readme.md)
 * [Aula 2](./aula-2/readme.md)
+* [Aula 3](./aula-3/readme.md)
 
 ## Objetivo do Módulo
 
@@ -45,7 +48,7 @@
 
 > Consumindo a primeira Web-Api. (Star Wars Api)
 
-Aplicativo que lista personagens dos filmes do Star Wars
+> Aplicativo que lista personagens dos filmes do Star Wars
 
 ## Trabalho Final
 
