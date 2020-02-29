@@ -212,6 +212,8 @@ Vamos criar uma API simples para consumir a Api do Star Wars
         }
       });
 
+      data.id = getFilmId(data.url);
+      data.photo = getFilmImageUrl(data.id);
       data.characters = characters;
 
       return res.send(data).status(200);
