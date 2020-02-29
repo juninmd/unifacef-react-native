@@ -255,6 +255,8 @@ Acesse o Site do [Heroku](https://www.heroku.com/)
 
 > Clique no botão [VIEW] para testar sua aplicação.
 
+<https://star-wars-api-unifacef.herokuapp.com>
+
 ## Postman
 
 ![imagem](../images/postman2.jpg)
@@ -267,3 +269,5 @@ Podemos visualizar aqui o retorno da API.
 ---
 
 E agora vamos ao React Native...
+
+Para ganharmos tempo, copie o projeto do `etanol ou gasolina`, com todas as pastas, exceto a `node_modules`, 
