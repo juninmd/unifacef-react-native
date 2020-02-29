@@ -149,12 +149,28 @@ Vamos criar uma API simples para consumir a Api do Star Wars
   ```js
   const baseURL = 'https://swapi.co/api/';
   ```
-
 * Adicione essa função que será útil para nosso projeto
+  ```js
+  const getFilmId = (url) => {
+    const id = url.split('/')[5];
+    return Number(id);
+  }
+  ```
+  Com ela vamos obter os ids dos filmes
+
+* Adicione essa outra função que também será útil para nosso projeto
   ```js
   const getCharacterImageUrl = (url) => {
     const getCharacterId = url.split('/')[5];
     return `https://starwars-visualguide.com/assets/img/characters/${getCharacterId}.jpg`;
+  }
+  ```
+  Com ela vamos obter as fotos dos personagens
+
+* Adicione essa função para obter imagem dos filmes
+  ```js
+  const getFilmImageUrl = (id) => {
+    return `https://starwars-visualguide.com/assets/img/films/${id}.jpg`;
   }
   ```
   Com ela vamos obter as fotos dos personagens
@@ -164,6 +180,7 @@ Vamos criar uma API simples para consumir a Api do Star Wars
   app.get('/films', async (req, res, next) => {
     try {
       const { data: { results } } = await axios.request({ baseURL, url: 'films' });
+      results.forEach(x => x.id = getFilmId(x.url));
       return res.send(results).status(200);
     } catch (error) {
       console.error(error);
