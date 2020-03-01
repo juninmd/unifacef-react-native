@@ -10,3 +10,4 @@
 * [Iago Bettarello](https://github.com/bettarelloiago/pos-react-native)
 * [Willyan Luindayk Machado](https://github.com/luindayk/pos-facef-rn-gasolina)
 * [THIAGO HENRIQUE DE MATOS](https://github.com/ThiagoHMatos/unifacef-react-native)
+* [Fernando Soares](https://github.com/fernandohfs/ethanol-or-gasoline)
