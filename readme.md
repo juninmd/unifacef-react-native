@@ -4,6 +4,8 @@
 * [Contato](./contato.md)
 * [Repositórios dos Alunos](./repositorios.md)
 * [Playground TypeScript](https://github.com/juninmd/typescript-unifacef)
+* [Problemas Comuns](https://docs.rocketseat.dev/ambiente-react-native/errors/android)
+* [Montando Ambiente](https://docs.rocketseat.dev/ambiente-react-native/android/windows)
 
 
 ## Aulas
