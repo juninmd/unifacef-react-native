@@ -13,4 +13,4 @@
 * [Fernando Soares](https://github.com/fernandohfs/ethanol-or-gasoline)
 * [Bruno Brancalhão](https://github.com/brunobrancalhao/Etanol-ou-gasolina-react-native)
 * [Luismar Pavani](https://github.com/LuismarPavani/etanol-gasolina)
-
+* [Everson Pereira](https://github.com/eversonpereira/reactnative2)
