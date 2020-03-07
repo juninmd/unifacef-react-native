@@ -595,11 +595,11 @@ import Film from '../containers/film';
 
 ```tsx
   <Stack.Screen options={{
-          headerTitle: 'Detail of Movie',
-          headerTintColor: '#ffffff',
-          headerStyle: {
-            backgroundColor: 'black',
-          }
-        }} name={ROUTES_NAMES.Film} component={Film} />
-      </Stack.Navigator>
+      headerTitle: 'Detail of Movie',
+      headerTintColor: '#ffffff',
+      headerStyle: {
+        backgroundColor: 'black',
+      }
+    }} name={ROUTES_NAMES.Film} component={Film} />
+  </Stack.Navigator>
 ```
