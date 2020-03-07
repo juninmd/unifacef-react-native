@@ -51,7 +51,6 @@
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarsWarsApp)
 * [Iago Bettarello](https://github.com/bettarelloiago/star-wars-facef)
 
-
 ## Trabalho Star Wars - API
 
 * [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_api)
