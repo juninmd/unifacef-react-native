@@ -78,4 +78,4 @@
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarsWarsApp)
 * [Iago Bettarello](https://github.com/bettarelloiago/star-wars-api)
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
-
+* [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
