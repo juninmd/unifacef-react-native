@@ -41,6 +41,6 @@
 * [Éder Martins](https://github.com/caniss/star-wars-app)
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/starwarsapp)
 * [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
+* [Caio Santos Freitas](https://github.com/caiosantosf/star-wars-react-native)
 * [CLEVELANDIO MARGIO DA SILVA](https://github.com/Paratiy/https-github.com-Paratiy-typescript-unifacef-aula3-novomeu2)
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarsWarsApp)
-
