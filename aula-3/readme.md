@@ -353,3 +353,24 @@ Altere o StackNavigator para
 Stack.Navigator initialRouteName={ROUTES_NAMES.Home}
 ```
 
+crie uma pasta chamada `apis`, dentro dela crie um arquivo chamado `star-wars.api.ts` com o seguinte conteúdo:
+
+```ts
+import axios from 'axios';
+
+const baseURL = 'https://star-wars-api-unifacef.herokuapp.com';
+
+export const getFilms = async () => {
+    return axios.request({
+        baseURL,
+        url: 'films'
+    })
+}
+
+export const getFilmById = async (id: number) => {
+    return axios.request({
+        baseURL,
+        url: `films/${id}`
+    })
+}
+```
