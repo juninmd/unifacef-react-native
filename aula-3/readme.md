@@ -592,7 +592,9 @@ Adicione uma nova rota ao projeto, no arquivo `routes/index.tsx` :
 ```tsx
 import Film from '../containers/film';
 ```
+
 > adicione esse bloco dentro do bloco `<Stack.Navigator initialRouteName={ROUTES_NAMES.Home}>`
+
 ```tsx
   <Stack.Screen options={{
       headerTitle: 'Detail of Movie',
