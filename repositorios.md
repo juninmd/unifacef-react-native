@@ -23,3 +23,4 @@
 
 ## Trabalho Star Wars
 
+* [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_app)
