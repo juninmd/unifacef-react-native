@@ -19,5 +19,7 @@
 * [Lukas Rafael1407](https://github.com/lukasrafael1407/Mobile.git)
 * [Bruno Pádua](https://snack.expo.io/@brunospadua/posto-combustivel)
 * [André Luis Borges](https://github.com/Andre-Borges/React-Native-Facef)
+* [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/gasolina-ou-etanol)
 
 ## Trabalho Star Wars
+
