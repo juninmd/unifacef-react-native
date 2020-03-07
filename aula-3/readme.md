@@ -521,7 +521,6 @@ import React, { Component } from 'react';
 import { inject, observer } from 'mobx-react';
 
 import HomeStore from '../../stores/home.store';
-import { getFilms } from '../../apis/star-wars.api';
 
 interface Props {
  homeStore: HomeStore;
