@@ -53,7 +53,7 @@
 
 ## Trabalho Star Wars - API
 
-* [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_api.git)
+* [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_api)
 * [Willyan Luindayk Machado](https://github.com/luindayk/star-wars-app)
 * [Gabriel Chiarelo](https://github.com/gabrielborc/star-wars-app)
 * [Danilo S. Andrade](https://github.com/daniloandrade47/react_unifacef_StarWars.git)
