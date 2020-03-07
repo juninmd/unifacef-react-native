@@ -374,3 +374,36 @@ export const getFilmById = async (id: number) => {
     })
 }
 ```
+
+Crie uma pasta chamada `interfaces` na raiz do projeto, dentro dela crie um arquivo chamado `star-wars.interface.ts` com o seguinte conteúdo:
+
+```ts
+export interface Character {
+    name: string;
+    gender: string;
+    birthYear: string;
+    eyeColor: string;
+    height: string;
+    mass: string;
+    photo: string;
+}
+
+export interface Film {
+    title: string;
+    id: number;
+    episode_id: number;
+    opening_crawl: string;
+    photo: string;
+    director: string;
+    producer: string;
+    release_date: string;
+    characters: Character[];
+    planets: string[];
+    starships: string[];
+    vehicles: string[];
+    species: string[];
+    created: Date;
+    edited: Date;
+    url: string;
+}
+```
