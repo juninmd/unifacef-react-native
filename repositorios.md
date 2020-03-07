@@ -22,7 +22,6 @@
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/gasolina-ou-etanol)
 * [Caio Santos Freitas](https://github.com/caiosantosf/etanol-ou-gasolina-react-native)
 * [Éder Martins](https://github.com/caniss/calcular-imc)
-* [Loner Patti](https://github.com/lonerpatti/combustivel2)
 
 ## Trabalho Star Wars - APP
 
@@ -69,12 +68,11 @@
 * [Everson Pereira](https://github.com/eversonpereira/starwars)
 * [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
 * [Murilo Scapim](https://github.com/murilo-scapim/star-wars-api-unifacef)
-* [Bruno Pádua](https://github.com/brunopadua05/star-wars-app)
-* [Éder Martins](https://github.com/caniss/star-wars-api)
+* [Bruno Pádua](https://github.com/brunopadua05/star-wars-api)
+* [Éder Martins](https://github.com/caniss/star-wars-app)
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/starwarsapp)
 * [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
 * [Caio Santos Freitas](https://github.com/caiosantosf/star-wars-react-native)
 * [CLEVELANDIO MARGIO DA SILVA](https://github.com/Paratiy/https-github.com-Paratiy-typescript-unifacef-aula3-novomeu2)
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarsWarsApp)
 * [Iago Bettarello](https://github.com/bettarelloiago/star-wars-facef)
-
