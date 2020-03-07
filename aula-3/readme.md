@@ -375,7 +375,7 @@ export const getFilmById = async (id: number) => {
 }
 ```
 
-Crie uma pasta chamada `interfaces` na raiz do projeto, dentro dela crie um arquivo chamado `star-wars.interface.ts` com o seguinte conteúdo:
+Crie uma pasta chamada `interfaces` dentro da pasta `src`, dentro dela crie um arquivo chamado `star-wars.interface.ts` com o seguinte conteúdo:
 
 ```ts
 export interface Character {
