@@ -50,6 +50,7 @@
 * [CLEVELANDIO MARGIO DA SILVA](https://github.com/Paratiy/https-github.com-Paratiy-typescript-unifacef-aula3-novomeu2)
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarsWarsApp)
 * [Iago Bettarello](https://github.com/bettarelloiago/star-wars-facef)
+* [Caio Silva](https://github.com/CaioSilvaSilva/star-wars-app)
 
 ## Trabalho Star Wars - API
 
@@ -59,7 +60,7 @@
 * [Danilo S. Andrade](https://github.com/daniloandrade47/StarWars_api.git)
 * [Bruno Brancalhão](https://github.com/brunobrancalhao/star-wars-api)
 * [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/StarWars_api.git)
-* [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-app)
+* [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-api)
 * [Danilo Alves](https://github.com/daniloalves19/starwars-app)
 * [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-api)
 * [Miguel Molina](https://github.com/miguelmolina78/starwars-app)
