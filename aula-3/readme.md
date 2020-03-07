@@ -545,7 +545,7 @@ export default class Film extends Component<Props> {
   return (<Layout style={{ flex: 1, backgroundColor: 'black' }}>
    <ScrollView>
 
-    {!film.episode_id && <Card><Text>Carregando...</Text></Card>}
+    {!film.episode_id && <Card><Text>Carregando...<Spinner /></Text></Card>}
 
     {film.episode_id &&
      <Card status='success'>
@@ -592,7 +592,7 @@ Adicione uma nova rota ao projeto, no arquivo `routes/index.tsx` :
 ```tsx
 import Film from '../containers/film';
 ```
-
+> adicione esse bloco dentro do bloco `<Stack.Navigator initialRouteName={ROUTES_NAMES.Home}>`
 ```tsx
   <Stack.Screen options={{
       headerTitle: 'Detail of Movie',
