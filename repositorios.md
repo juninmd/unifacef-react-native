@@ -55,7 +55,7 @@
 
 * [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_api)
 * [Willyan Luindayk Machado](https://github.com/luindayk/star-wars-api)
-* [Gabriel Chiarelo](https://github.com/gabrielborc/star-wars-app)
+* [Gabriel Chiarelo](https://github.com/gabrielborc/star-wars-api)
 * [Danilo S. Andrade](https://github.com/daniloandrade47/StarWars_api.git)
 * [Bruno Brancalhão](https://github.com/brunobrancalhao/star-wars-api)
 * [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/StarWars_api.git)
