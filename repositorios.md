@@ -24,6 +24,7 @@
 ## Trabalho Star Wars
 
 * [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_app)
+* [Bruno Brancalhão](https://github.com/brunobrancalhao/star-wars-app)
 * [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/unifacef_StarWars)
 * [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-app)
 * [Danilo Alves](https://github.com/daniloalves19/starwars-app)
