@@ -25,4 +25,6 @@
 
 * [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_app)
 * [Danilo Alves](https://github.com/daniloalves19/starwars-app)
+* [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-app)
+* [Miguel Molina] (https://github.com/miguelmolina78/starwars-app)
 
