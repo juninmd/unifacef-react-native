@@ -20,3 +20,5 @@
 * [Bruno Pádua](https://snack.expo.io/@brunospadua/posto-combustivel)
 
 ## Trabalho Star Wars
+
+* [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_app)
