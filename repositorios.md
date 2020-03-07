@@ -20,6 +20,8 @@
 * [Bruno Pádua](https://snack.expo.io/@brunospadua/posto-combustivel)
 * [André Luis Borges](https://github.com/Andre-Borges/React-Native-Facef)
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/gasolina-ou-etanol)
+* [Caio Santos Freitas](https://github.com/caiosantosf/etanol-ou-gasolina-react-native)
+* [Éder Martins](https://github.com/caniss/calcular-imc)
 
 ## Trabalho Star Wars
 
@@ -34,5 +36,6 @@
 * [Miguel Molina](https://github.com/miguelmolina78/starwars-app)
 * [Luismar Pavani](https://github.com/LuismarPavani/StarWars-API)
 * [Everson Pereira](https://github.com/eversonpereira/starwars)
+* [Éder Martins](https://github.com/caniss/star-wars-app)
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/starwarsapp)
 * [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
