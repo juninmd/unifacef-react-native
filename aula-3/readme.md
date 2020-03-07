@@ -317,3 +317,39 @@ E agora vamos ao React Native...
 Crie um novo repositório no github chamado `star-wars-app`, clone na sua máquina, para ganharmos tempo, copie o projeto do `etanol ou gasolina` para a nova pasta gerada do seu clone com todas as pastas, exceto a `node_modules` e a `.git`.
 
 O Aplicativo final estará disponível em: <https://github.com/juninmd/star-wars-app>
+
+## O Aplicativo
+
+Vamos pegar nosso projeto já copiado e adicionar a lib do `axios`
+
+```bash
+yarn add axios
+```
+
+Adicione o enum no arquivo index.tsx antes das Rotas
+
+```ts
+export enum ROUTES_NAMES {
+    Home = "Home",
+    Film = "Film"
+}
+```
+
+Altere o headerTitle para 'StarWars'
+```
+ headerTitle: 'Star Wars',
+```
+
+Altere o background color para 'black'
+```
+  headerStyle: {
+      backgroundColor: 'black',
+  }
+```
+
+Altere o StackNavigator para
+
+```ts
+Stack.Navigator initialRouteName={ROUTES_NAMES.Home}
+```
+
