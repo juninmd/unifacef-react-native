@@ -315,3 +315,5 @@ Podemos visualizar aqui o retorno da API.
 E agora vamos ao React Native...
 
 Crie um novo repositório no github chamado `star-wars-app`, clone na sua máquina, para ganharmos tempo, copie o projeto do `etanol ou gasolina` para a nova pasta gerada do seu clone com todas as pastas, exceto a `node_modules` e a `.git`.
+
+O Aplicativo final estará disponível em: <https://github.com/juninmd/star-wars-app>
