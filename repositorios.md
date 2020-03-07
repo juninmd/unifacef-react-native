@@ -57,7 +57,7 @@
 * [Willyan Luindayk Machado](https://github.com/luindayk/star-wars-app)
 * [Gabriel Chiarelo](https://github.com/gabrielborc/star-wars-app)
 * [Danilo S. Andrade](https://github.com/daniloandrade47/react_unifacef_StarWars.git)
-* [Bruno Brancalhão](https://github.com/brunobrancalhao/star-wars-app)
+* [Bruno Brancalhão](https://github.com/brunobrancalhao/star-wars-api)
 * [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/unifacef_StarWars)
 * [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-app)
 * [Danilo Alves](https://github.com/daniloalves19/starwars-app)
@@ -77,4 +77,3 @@
 * [CLEVELANDIO MARGIO DA SILVA](https://github.com/Paratiy/https-github.com-Paratiy-typescript-unifacef-aula3-novomeu2)
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarsWarsApp)
 * [Iago Bettarello](https://github.com/bettarelloiago/star-wars-facef)
-
