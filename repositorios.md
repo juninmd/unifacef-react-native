@@ -56,7 +56,7 @@
 * [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_api)
 * [Willyan Luindayk Machado](https://github.com/luindayk/star-wars-api)
 * [Gabriel Chiarelo](https://github.com/gabrielborc/star-wars-app)
-* [Danilo S. Andrade](https://github.com/daniloandrade47/react_unifacef_StarWars.git)
+* [Danilo S. Andrade](https://github.com/daniloandrade47/StarWars_api.git)
 * [Bruno Brancalhão](https://github.com/brunobrancalhao/star-wars-api)
 * [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/StarWars_api.git)
 * [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-app)
@@ -77,4 +77,3 @@
 * [CLEVELANDIO MARGIO DA SILVA](https://github.com/Paratiy/https-github.com-Paratiy-typescript-unifacef-aula3-novomeu2-api)
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarsWarsApp)
 * [Iago Bettarello](https://github.com/bettarelloiago/star-wars-facef)
-* [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
