@@ -17,3 +17,4 @@
 * [Gabriel Chiarelo](https://github.com/gabrielborc/gasolina_ou_etanol_ts)
 * [Danilo Alves](https://github.com/daniloalves19/facef-react-combustivel)
 * [Lukas Rafael1407](https://github.com/lukasrafael1407/Mobile.git)
+* [Bruno Pádua](https://snack.expo.io/@brunospadua/posto-combustivel)
