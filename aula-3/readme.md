@@ -246,6 +246,21 @@ Vamos criar uma API simples para consumir a Api do Star Wars
     console.log(`Aplicação - Ativa :D | ${port}`);
   });
   ```
+  * Remova a `node_modules` do git, crie um arquivo `.gitignore` com o seguinte conteúdo:
+  ```
+  node_modules/
+  ```
+  ou digite no terminal parar gerar o arquivo
+  ```
+  npx gign .
+  ```
+  * Caso você já tenha dado push na `node_modules`, digite o seguinte comando:
+  ```
+    git rm -r node_modules
+    git commit -m 'removendo node_modules'
+    git push origin master
+  ```
+
 * Finalizamos o código! Agora é a hora do Deploy :)
 
 > Não esqueça de fazer `commit` e `push`!
