@@ -24,7 +24,7 @@
 ## Trabalho Star Wars
 
 * [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_app)
-* [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-app)
 * [Danilo Alves](https://github.com/daniloalves19/starwars-app)
 * [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-app)
-* [Miguel Molina] (https://github.com/miguelmolina78/starwars-app)
+* [Miguel Molina](https://github.com/miguelmolina78/starwars-app)
+* [Luismar Pavani](https://github.com/LuismarPavani/StarWars-API)
