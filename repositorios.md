@@ -41,3 +41,4 @@
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/starwarsapp)
 * [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
 * [CLEVELANDIO MARGIO DA SILVA](https://github.com/Paratiy/https-github.com-Paratiy-typescript-unifacef-aula3-novomeu2)
+* [Lucas Rafael](https://github.com/lukasrafael1407/StarsWarsApp)
