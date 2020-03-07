@@ -3,7 +3,7 @@
 ## Trabalho Etanol ou Gasolina'?'
 
 * [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_a2_pos)
-* [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/react_native_facef)
+* [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/app_combustivel_ts)
 * [Danilo S. Andrade](https://github.com/daniloandrade47/React_Unifacef.git)
 * [Rafael Henrique de Morais](https://github.com/rhMorais/ReactGasolinaEtanol)
 * [CLEVELANDIO MARGIO DA SILVA](http://github.com/Paratiy/unifacef-react-nativive-meu)
@@ -16,12 +16,30 @@
 * [Everson Pereira](https://github.com/eversonpereira/reactnative2)
 * [Gabriel Chiarelo](https://github.com/gabrielborc/gasolina_ou_etanol_ts)
 * [Danilo Alves](https://github.com/daniloalves19/facef-react-combustivel)
-* [Lukas Rafael1407](https://github.com/lukasrafael1407/Mobile.git)
-* [Bruno Pádua](https://snack.expo.io/@brunospadua/posto-combustivel)
+* [Lucas Rafael](https://github.com/lukasrafael1407/Mobile.git)
+* [Bruno Pádua](https://github.com/brunopadua05/app-posto-combustivel)
 * [André Luis Borges](https://github.com/Andre-Borges/React-Native-Facef)
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/gasolina-ou-etanol)
+* [Caio Santos Freitas](https://github.com/caiosantosf/etanol-ou-gasolina-react-native)
+* [Éder Martins](https://github.com/caniss/calcular-imc)
 
 ## Trabalho Star Wars
 
 * [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_app)
 * [Willyan Luindayk Machado](https://github.com/luindayk/star-wars-app)
+* [Gabriel Chiarelo](https://github.com/gabrielborc/star-wars-app)
+* [Danilo S. Andrade](https://github.com/daniloandrade47/react_unifacef_StarWars.git)
+* [Bruno Brancalhão](https://github.com/brunobrancalhao/star-wars-app)
+* [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/unifacef_StarWars)
+* [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-app)
+* [Danilo Alves](https://github.com/daniloalves19/starwars-app)
+* [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-app)
+* [Miguel Molina](https://github.com/miguelmolina78/starwars-app)
+* [Luismar Pavani](https://github.com/LuismarPavani/StarWars-API)
+* [Everson Pereira](https://github.com/eversonpereira/starwars)
+* [Bruno Pádua](https://github.com/brunopadua05/star-wars-app)
+* [Éder Martins](https://github.com/caniss/star-wars-app)
+* [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/starwarsapp)
+* [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
+* [CLEVELANDIO MARGIO DA SILVA](https://github.com/Paratiy/https-github.com-Paratiy-typescript-unifacef-aula3-novomeu2)
+
