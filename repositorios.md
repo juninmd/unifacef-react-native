@@ -22,8 +22,9 @@
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/gasolina-ou-etanol)
 * [Caio Santos Freitas](https://github.com/caiosantosf/etanol-ou-gasolina-react-native)
 * [Éder Martins](https://github.com/caniss/calcular-imc)
+* [Loner Patti](https://github.com/lonerpatti/combustivel2)
 
-## Trabalho Star Wars
+## Trabalho Star Wars - APP
 
 * [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_app)
 * [Willyan Luindayk Machado](https://github.com/luindayk/star-wars-app)
@@ -43,6 +44,34 @@
 * [Murilo Scapim](https://github.com/murilo-scapim/star-wars-api-unifacef)
 * [Bruno Pádua](https://github.com/brunopadua05/star-wars-app)
 * [Éder Martins](https://github.com/caniss/star-wars-app)
+* [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/starwarsapp)
+* [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
+* [Caio Santos Freitas](https://github.com/caiosantosf/star-wars-react-native)
+* [CLEVELANDIO MARGIO DA SILVA](https://github.com/Paratiy/https-github.com-Paratiy-typescript-unifacef-aula3-novomeu2)
+* [Lucas Rafael](https://github.com/lukasrafael1407/StarsWarsApp)
+* [Iago Bettarello](https://github.com/bettarelloiago/star-wars-facef)
+
+
+## Trabalho Star Wars - API
+
+* [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_api)
+* [Willyan Luindayk Machado](https://github.com/luindayk/star-wars-app)
+* [Gabriel Chiarelo](https://github.com/gabrielborc/star-wars-app)
+* [Danilo S. Andrade](https://github.com/daniloandrade47/react_unifacef_StarWars.git)
+* [Bruno Brancalhão](https://github.com/brunobrancalhao/star-wars-app)
+* [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/unifacef_StarWars)
+* [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-app)
+* [Danilo Alves](https://github.com/daniloalves19/starwars-app)
+* [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-app)
+* [Miguel Molina](https://github.com/miguelmolina78/starwars-app)
+* [Luismar Pavani](https://github.com/LuismarPavani/StarWars-API)
+* [Caio Santos Freitas](https://github.com/caiosantosf/star-wars-react-native)
+* [Lucas Rafael](https://github.com/lukasrafael1407/StarsWarsApp)
+* [Everson Pereira](https://github.com/eversonpereira/starwars)
+* [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
+* [Murilo Scapim](https://github.com/murilo-scapim/star-wars-api-unifacef)
+* [Bruno Pádua](https://github.com/brunopadua05/star-wars-app)
+* [Éder Martins](https://github.com/caniss/star-wars-api)
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/starwarsapp)
 * [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
 * [Caio Santos Freitas](https://github.com/caiosantosf/star-wars-react-native)
