@@ -35,3 +35,4 @@
 * [Luismar Pavani](https://github.com/LuismarPavani/StarWars-API)
 * [Everson Pereira](https://github.com/eversonpereira/starwars)
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/starwarsapp)
+* [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
