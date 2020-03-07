@@ -477,7 +477,7 @@ export default class Home extends Component<Props> {
 
     const navigateScreen = (id: number) => {
       const { navigate } = this.props.navigation;
-      navigate(ROUTES_NAMES.Home, { id });
+      navigate(ROUTES_NAMES.Film, { id });
     }
 
     return (<Layout style={{ flex: 1, backgroundColor: 'black' }}>
