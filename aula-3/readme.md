@@ -246,7 +246,7 @@ Vamos criar uma API simples para consumir a Api do Star Wars
     console.log(`Aplicação - Ativa :D | ${port}`);
   });
   ```
-  * Remova a `node_modules` do git, crie um arquivo `.gitignore` com o seguinte conteúdo:
+* Remova a `node_modules` do git, crie um arquivo `.gitignore` com o seguinte conteúdo:
   ```
   node_modules/
   ```
@@ -254,7 +254,7 @@ Vamos criar uma API simples para consumir a Api do Star Wars
   ```
   npx gign .
   ```
-  * Caso você já tenha dado push na `node_modules`, digite o seguinte comando:
+* Caso você já tenha dado push na `node_modules`, digite o seguinte comando:
   ```
     git rm -r node_modules
     git commit -m 'removendo node_modules'
