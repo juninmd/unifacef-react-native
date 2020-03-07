@@ -601,5 +601,4 @@ import Film from '../containers/film';
         backgroundColor: 'black',
       }
     }} name={ROUTES_NAMES.Film} component={Film} />
-  </Stack.Navigator>
 ```
