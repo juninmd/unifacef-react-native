@@ -58,7 +58,7 @@
 * [Gabriel Chiarelo](https://github.com/gabrielborc/star-wars-app)
 * [Danilo S. Andrade](https://github.com/daniloandrade47/react_unifacef_StarWars.git)
 * [Bruno Brancalhão](https://github.com/brunobrancalhao/star-wars-app)
-* [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/unifacef_StarWars)
+* [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/StarWars_api.git)
 * [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-app)
 * [Danilo Alves](https://github.com/daniloalves19/starwars-app)
 * [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-app)
