@@ -248,6 +248,8 @@ Vamos criar uma API simples para consumir a Api do Star Wars
   ```
 * Finalizamos o código! Agora é a hora do Deploy :)
 
+> Não esqueça de fazer `commit` e `push`!
+
 Código final está disponível em: <https://github.com/juninmd/star-wars-api.git>
 
 ## Heroku 
