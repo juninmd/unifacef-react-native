@@ -95,6 +95,13 @@ Por padrão nas versões mais atualizadas do android, não é aceito requisiçõ
 
 Vamos criar uma API simples para consumir a Api do Star Wars
 
+
+## Express 
+
+![imagem](https://miro.medium.com/max/642/1*kMNzu4zx40QvwQUWa9dCOw.png)
+
+![imagem](https://d33wubrfki0l68.cloudfront.net/a22bb45df146d43b57f2f6c90182d19e7394cd96/d6e10/assets-jekyll/blog/express-middleware-examples/middleware-30b3b30ad54e21d8281719042860f3edd9fb1f40f93150233a08165d908f4631.png)
+
 ### Star Wars API
 > Antes de desenvolvermos, vamos dar uma olhadinha na documentação da API
 
