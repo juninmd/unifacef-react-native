@@ -64,7 +64,7 @@
 * [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-app)
 * [Miguel Molina](https://github.com/miguelmolina78/starwars-app)
 * [Luismar Pavani](https://github.com/LuismarPavani/StarWars-API)
-* [Caio Santos Freitas](https://github.com/caiosantosf/star-wars-react-native)
+* [Caio Santos Freitas](https://github.com/caiosantosf/star-wars-api-nodejs)
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarsWarsApp)
 * [Everson Pereira](https://github.com/eversonpereira/starwars)
 * [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
