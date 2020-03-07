@@ -8,7 +8,7 @@
 * [Rafael Henrique de Morais](https://github.com/rhMorais/ReactGasolinaEtanol)
 * [CLEVELANDIO MARGIO DA SILVA](http://github.com/Paratiy/unifacef-react-nativive-meu)
 * [Iago Bettarello](https://github.com/bettarelloiago/pos-react-native)
-* [Willyan Luindayk Machado](https://github.com/luindayk/pos-facef-rn-gasolina)
+* [Willyan Luindayk Machado](https://github.com/luindayk/etanol-ou-gasolina)
 * [THIAGO HENRIQUE DE MATOS](https://github.com/ThiagoHMatos/unifacef-react-native)
 * [Fernando Soares](https://github.com/fernandohfs/ethanol-or-gasoline)
 * [Bruno Brancalhão](https://github.com/brunobrancalhao/Etanol-ou-gasolina-react-native)
@@ -24,3 +24,4 @@
 ## Trabalho Star Wars
 
 * [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_app)
+* [Willyan Luindayk Machado](https://github.com/luindayk/star-wars-app)
