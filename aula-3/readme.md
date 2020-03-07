@@ -13,9 +13,6 @@ As APIs são um tipo de “ponte” que conectam aplicações, podendo ser utili
 
 ## Rest-Full
 
-
-![imagem](../images/api.jpg)
-
 REST significa `Representational State Transfer`. Em português, Transferência de Estado Representacional. 
 
 Trata-se de uma abstração da arquitetura da Web. 
