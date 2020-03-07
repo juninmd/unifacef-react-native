@@ -21,6 +21,7 @@
 * [André Luis Borges](https://github.com/Andre-Borges/React-Native-Facef)
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/gasolina-ou-etanol)
 * [Caio Santos Freitas](https://github.com/caiosantosf/etanol-ou-gasolina-react-native)
+*.[Éder Martins].(https://github.com/caniss/calcular-imc)
 
 ## Trabalho Star Wars
 
@@ -38,3 +39,4 @@
 * [Caio Santos Freitas](https://github.com/caiosantosf/star-wars-react-native)
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarsWarsApp)
 * [Everson Pereira](https://github.com/eversonpereira/starwars)
+*.[Éder Martins].(https://github.com/caniss/star-wars-app)
