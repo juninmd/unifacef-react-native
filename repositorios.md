@@ -33,3 +33,4 @@
 * [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-app)
 * [Miguel Molina](https://github.com/miguelmolina78/starwars-app)
 * [Luismar Pavani](https://github.com/LuismarPavani/StarWars-API)
+* [Everson Pereira](https://github.com/eversonpereira/starwars)
