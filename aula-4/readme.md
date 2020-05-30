@@ -41,7 +41,7 @@ Vamos adicionar um novo arquivo chamado `server.json` com o resultado:
       "image": "https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg",
       "description": "Are you working for your dreams?",
       "authorId": 1
-    },
+    }
   ],
   "authors": [
     {
