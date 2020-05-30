@@ -91,7 +91,7 @@
 * [Gabriel Chiarelo]()
 * [Danilo S. Andrade]()
 * [Bruno Brancalhão]()
-* [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/StarWars_api.git)
+* [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/unifacefgram)
 * [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-api)
 * [Danilo Alves](https://github.com/daniloalves19/starwars-api)
 * [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-api)
