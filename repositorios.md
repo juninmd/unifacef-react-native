@@ -106,7 +106,7 @@
 * [Éder Martins](https://github.com/caniss/star-wars-api)
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/starwarsapp)
 * [Fernando Soares](https://github.com/fernandohfs/star-wars-api)
-* [CLEVELANDIO MARGIO DA SILVA](https://github.com/Paratiy/https-github.com-Paratiy-typescript-unifacef-aula3-novomeu2-api)
+* [CLEVELANDIO MARGIO DA SILVA](https://github.com/Paratiy/posfacef.mobile.antonio.aula4_meu)
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarWarsAPI)
 * [Iago Bettarello](https://github.com/bettarelloiago/star-wars-api)
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
