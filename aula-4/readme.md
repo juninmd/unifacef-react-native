@@ -760,6 +760,9 @@ Altere o arquivo home.store dentro de
 > src/stores/home.store.tsx
 
 ```ts
+
+  @observable loading: boolean = false;
+  
   @action getPosts = async () => {
     this.loading = true
     try {
