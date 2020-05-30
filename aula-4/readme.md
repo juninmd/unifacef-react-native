@@ -280,6 +280,9 @@ Também adicione a permissão em
 <uses-permission android:name="android.permission.CAMERA" />
 ```
 
+Crie um arquivo chamado `camera.component.tsx` em:
+> src/components
+
 ---
 
 Alterando ícones do app
