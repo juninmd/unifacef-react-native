@@ -283,6 +283,67 @@ Também adicione a permissão em
 Crie um arquivo chamado `camera.component.tsx` em:
 > src/components
 
+E implemente o seguinte conteúdo
+
+```tsx
+import React, { Component } from 'react';
+import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+
+import { RNCamera } from 'react-native-camera';
+
+interface Props {
+  onTakeCamera: (uri: string) => void
+  status: boolean
+}
+
+export class Camera extends Component<Props> {
+
+  render() {
+
+    const PendingView = () => (
+      <View><Text>Carregando..</Text></View>
+    );
+
+    const { status } = this.props;
+
+    return (<View>
+      {status &&
+        <View>
+          <RNCamera
+            captureAudio={false}
+            type={RNCamera.Constants.Type.back}
+            androidCameraPermissionOptions={{
+              title: 'Permissão para usar camera',
+              message: 'Precisamos da sua persmissão para fotografar',
+              buttonPositive: 'OK!',
+              buttonNegative: 'Cancel'
+            }}>
+            {({ camera, status, recordAudioPermissionStatus }) => {
+              if (status !== 'READY') return <PendingView />
+              return (
+                <View>
+                  <TouchableOpacity>
+                    <Text>Fotografar</Text>
+                  </TouchableOpacity>
+                </View>
+              )
+            }}
+          </RNCamera>
+        </View>}
+    </View>)
+
+  }
+}
+
+const styles = StyleSheet.create({
+  card: {
+    padding: 1,
+    margin: 4,
+    backgroundColor: 'black'
+  }
+})
+```
+
 ---
 
 Alterando ícones do app
