@@ -694,6 +694,40 @@ Deixando assim
   }
 ```
 
+Agora vamos deixar um pouco mais divertido,
+acesso o arquivo
+
+> src/stores/home.store.tsx
+
+E modifique assim
+
+```tsx
+this.posts.unshift(post);
+```
+
+Agora vamos criar uma confirmação
+> src/containers/home/index.tsx
+
+```tsx
+const uploadPhoto = (uri?: string) => {
+      if (uri) {
+        Alert.alert(
+          "Confirmação",
+          "Deseja realmente postar?",
+          [
+            {
+              text: "Cancelar",
+              style: "cancel"
+            },
+            { text: "OK", onPress: () => addPost(uri) }
+          ],
+          { cancelable: false }
+        );
+      }
+      toogleStatus(false);
+    }
+```
+
 ---
 
 Alterando ícones do app
