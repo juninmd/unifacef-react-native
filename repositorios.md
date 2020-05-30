@@ -90,7 +90,7 @@
 * [Willyan Luindayk Machado]()
 * [Gabriel Chiarelo]()
 * [Danilo S. Andrade]()
-* [Bruno Brancalhão]()
+* [Bruno Brancalhão](https://github.com/brunobrancalhao/instagram-fake)
 * [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/StarWars_api.git)
 * [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-api)
 * [Danilo Alves](https://github.com/daniloalves19/starwars-api)
