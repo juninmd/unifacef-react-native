@@ -762,7 +762,7 @@ Altere o arquivo home.store dentro de
 ```ts
 
   @observable loading: boolean = false;
-  
+
   @action getPosts = async () => {
     this.loading = true
     try {
@@ -783,7 +783,11 @@ dentro de
 > src/containers/home
 
 ```ts
-  async componentDidMount() {
+  componentDidMount() {
+    this.getPosts()
+  }
+
+  async getPosts() {
     const { getPosts } = this.props.homeStore;
     try {
       await getPosts();
@@ -793,18 +797,17 @@ dentro de
         "Erro",
         error.message
       );
-      console.log(error);
     }
   }
 ```
 
 ```tsx
- const { posts, photoReady, toogleStatus, addPost, loading, getPosts } = this.props.homeStore;
+ const { posts, photoReady, toogleStatus, addPost, loading } = this.props.homeStore;
 ```
 
 ```tsx
 <ScrollView refreshControl={
-  <RefreshControl refreshing={loading} onRefresh={() => getPosts()} />
+  <RefreshControl refreshing={loading} onRefresh={() => this.getPosts()} />
 }>
 ```
 
