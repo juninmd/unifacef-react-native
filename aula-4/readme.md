@@ -177,10 +177,6 @@ posts.map((post, index) => (
             source={{ uri: post.author.avatar }}/>
         <Text>{post.author.name}</Text>
         </View>
-        <Image
-        source={{
-            uri: 'https://reactnative.dev/img/tiny_logo.png',
-        }} />
         <Image source={{ uri: post.image }} />
         <Divider />
         <View>
