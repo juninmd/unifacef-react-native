@@ -435,7 +435,7 @@ export class Camera extends Component<Props> {
               if (status !== 'READY') return <PendingView />
               return (
                 <View>
-                  <TouchableOpacity onPress={() => this.takePicture(camera)} style={styles.container}>
+                  <TouchableOpacity onPress={() => this.takePicture(camera)} style={styles.capture}>
                     <Text style={styles.titlePhoto}>Fotografar</Text>
                   </TouchableOpacity>
                 </View>
@@ -650,6 +650,48 @@ const styles = StyleSheet.create({
     fontSize: 15
   }
 })
+```
+
+Vamos implementar agora o botão de cancelar, para isso vá até o arquivo.
+
+> src/components/camera.component.tsx
+
+E altere
+
+```tsx
+onTakeCamera: (uri?: string) => void
+```
+
+Adicione o botão de cancelar
+
+```tsx
+  <TouchableOpacity onPress={() => this.cancel()} style={styles.capture}>
+    <Text style={styles.titlePhoto}>Cancelar</Text>
+  </TouchableOpacity>
+```
+
+Adicione a função cancelar
+
+```tsx
+  cancel = () => {
+    const { onTakeCamera } = this.props;
+    onTakeCamera();
+  }
+```
+
+Volte ao arquivo
+
+> src/containers/home/index.tsx
+
+Deixando assim
+
+```tsx
+  const uploadPhoto = (uri?: string) => {
+    if(uri){
+      addPost(uri);
+    }
+    toogleStatus(false);
+  }
 ```
 
 ---
