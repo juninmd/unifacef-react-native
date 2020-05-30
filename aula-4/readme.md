@@ -362,6 +362,40 @@ Dentro da classe incremente essa função:
   }
 ```
 
+Adicione a folha de estilos
+
+```tsx
+const styles = StyleSheet.create({
+  container: {
+    backgroundColor: 'black',
+    flex: 0,
+    height: 600
+  },
+  preview: {
+    flex: 1,
+    justifyContent: 'flex-end',
+    alignItems: 'center'
+  },
+  capture: {
+    flex: 0,
+    backgroundColor: '#fff',
+    borderRadius: 5,
+    padding: 15,
+    paddingHorizontal: 20,
+    alignSelf: 'center',
+    margin: 20
+  },
+  titlePhoto: {
+    fontSize: 14
+  },
+  pendingView: {
+    backgroundColor: 'lightgreen',
+    justifyContent: 'center',
+    alignItems: 'center'
+  }
+})
+```
+
 ---
 
 Alterando ícones do app
