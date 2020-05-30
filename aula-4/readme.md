@@ -344,6 +344,24 @@ const styles = StyleSheet.create({
 })
 ```
 
+Dentro da classe incremente essa função:
+
+```tsx
+  takePicture = async (camera: RNCamera) => {
+    const { onTakeCamera } = this.props;
+    const options: TakePictureOptions = {
+      quality: 0.5,
+      base64: true
+    }
+    try {
+      const data = await camera.takePictureAsync(options);
+      onTakeCamera(data.uri);
+    } catch (error) {
+      console.error(error);
+    }
+  }
+```
+
 ---
 
 Alterando ícones do app
