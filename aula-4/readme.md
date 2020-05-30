@@ -60,6 +60,10 @@ após preencher esse arquivo, vamos validar a nossa api utilizando o seguinte co
 yarn json-server server.json -d 1000 -w
 ```
 
+![imagem](../images/aula-4/server.jpg)
+
+![imagem](../images/aula-4/server2.jpg)
+
 Após o comando iniciar, acesse a url:
 
 ```url
@@ -287,9 +291,12 @@ Alterando ícones do app
 Gere um e-mail temporário
 <https://temp-mail.org>
 
-Acesse o site para criar o ícone
+![imagem](../images/aula-4/temp_email.jpg)
 
+Acesse o site para criar o ícone
 <https://makeappicon.com/>
+
+![imagem](../images/aula-4/icon.jpg)
 
 Baixe o Zip no e-mail e acesse o seguinte endereço, descompacte e copie os itens da pasta android em
 
