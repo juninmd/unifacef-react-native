@@ -823,6 +823,16 @@ Adicione uma nova permissão
 
 Alterando ícones do app
 
+## Site 1
+
+<https://appicon.co/>
+
+Baixe o Zip acesse o seguinte endereço, descompacte e copie os itens da pasta android em
+
+> android\app\src\main\res
+
+## Site 2
+
 Gere um e-mail temporário
 <https://temp-mail.org>
 
