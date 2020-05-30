@@ -728,6 +728,91 @@ const uploadPhoto = (uri?: string) => {
     }
 ```
 
+Crie o arquivo `posts.api.ts` dentro de
+
+> src/apis
+
+```ts
+import axios from 'axios';
+
+export type Post = {
+  id: number;
+  image: string;
+  description: string;
+  authorId: number;
+  author: {
+    id: number;
+    name: string;
+    avatar: string
+  }
+}
+
+const BaseUrl = 'http://localhost:3000';
+
+export const getPosts = async () => {
+  const { data: posts } = await axios.get<[Post]>(`${BaseUrl}/feed?_expand=author`);
+  return posts;
+}
+```
+
+Altere o arquivo home.store dentro de
+
+> src/stores/home.store.tsx
+
+```ts
+  @action getPosts = async () => {
+    this.loading = true
+    try {
+      const posts = await getPosts();
+      this.posts = posts;
+    } catch (error) {
+      this.posts = [];
+      throw error;
+    } finally {
+      this.loading = false
+    }
+  }
+```
+
+Altere o arquivo index.tsx
+dentro de
+
+> src/containers/home
+
+```ts
+  async componentDidMount() {
+    const { getPosts } = this.props.homeStore;
+    try {
+      await getPosts();
+    } catch (error) {
+      Vibration.vibrate(3 * 1000)
+      Alert.alert(
+        "Erro",
+        error.message
+      );
+      console.log(error);
+    }
+  }
+```
+
+```tsx
+ const { posts, photoReady, toogleStatus, addPost, loading, getPosts } = this.props.homeStore;
+```
+
+```tsx
+<ScrollView refreshControl={
+  <RefreshControl refreshing={loading} onRefresh={() => getPosts()} />
+}>
+```
+
+Adicione uma nova permissão
+
+> android/app/src/main/AndroidManifest.xml
+
+```xml
+    <uses-permission android:name="android.permission.VIBRATE" />
+```
+
 ---
 
 Alterando ícones do app
