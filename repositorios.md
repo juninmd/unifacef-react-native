@@ -88,7 +88,7 @@
 
 * [Fabricio Coutinho de Medeiros]()
 * [Willyan Luindayk Machado]()
-* [Gabriel Chiarelo]()
+* [Gabriel Chiarelo](https://github.com/gabrielborc/instagram-fake)
 * [Danilo S. Andrade]()
 * [Bruno Brancalhão]()
 * [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/StarWars_api.git)
