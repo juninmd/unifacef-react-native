@@ -7,12 +7,12 @@
 * [Problemas Comuns](https://docs.rocketseat.dev/ambiente-react-native/errors/android)
 * [Montando Ambiente](https://docs.rocketseat.dev/ambiente-react-native/android/windows)
 
-
 ## Aulas
 
 * [Aula 1](./aula-1/readme.md)
 * [Aula 2](./aula-2/readme.md)
 * [Aula 3](./aula-3/readme.md)
+* [Aula 4](./aula-4/readme.md)
 
 ## Objetivo do Módulo
 
@@ -20,41 +20,41 @@
 
 ## Conteúdo Programático
 
-- Git
-- Consumo de APIS Restfull
-- JavaScript
-- JSX
-- Clean Code
-- Orientação de Objetos
-- Arquitetura de Projetos
-- Android
+* Git
+* Consumo de APIS Restfull
+* JavaScript
+* JSX
+* Clean Code
+* Orientação de Objetos
+* Arquitetura de Projetos
+* Android
 
 ## Ementa
 
-- Revisão da linguagem de programação JavaScript
-- Apresentação da arquitetura do React
-- Conhecendo o JSX
-- Apresentação da arquitetura do React Native
-- Comparação entre outras tecnologias
-- Entendendo o funcionamento do JavaScript com o React Native
-- Criando a primeira regra de negócio.
-- Conhecendo as formas de publicação de um app em desenvolvimento
+* Revisão da linguagem de programação JavaScript
+* Apresentação da arquitetura do React
+* Conhecendo o JSX
+* Apresentação da arquitetura do React Native
+* Comparação entre outras tecnologias
+* Entendendo o funcionamento do JavaScript com o React Native
+* Criando a primeira regra de negócio.
+* Conhecendo as formas de publicação de um app em desenvolvimento
 
 ## Exercício 1
 
 ### Etanol ou Gasolina '?' <https://github.com/juninmd/etanol-gasolina>
 
 > Aplicativo que calcula se vale mais pena abastecer Etanol ou Gasolina.
+Conhecendo TypeScript / Mobx
 
 ## Exercício 2  
 
-> Consumindo a primeira Web-Api. (Star Wars Api)
-
 > Aplicativo que lista personagens dos filmes do Star Wars
+Consumindo a primeira Web-Api. (Star Wars Api)
 
-## Trabalho Final
+## Exercício 3  
 
-> Instagram Fake Simples
+> Instagram Fake Simples <https://github.com/juninmd/unifacef-instagram>
 Aplicativo que exibe fotos
 
 ## Links Úteis
