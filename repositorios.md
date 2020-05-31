@@ -93,7 +93,7 @@
 * [Bruno Brancalhão]()
 * [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/StarWars_api.git)
 * [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-api)
-* [Danilo Alves](https://github.com/daniloalves19/starwars-api)
+* [Danilo Alves](https://github.com/daniloalves19/instagramfacef-app)
 * [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-api)
 * [Miguel Molina](https://github.com/miguelmolina78/starwars-app)
 * [Luismar Pavani](https://github.com/LuismarPavani/star-wars-api)
