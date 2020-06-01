@@ -105,7 +105,7 @@
 * [Bruno Pádua](https://github.com/brunopadua05/star-wars-api)
 * [Éder Martins](https://github.com/caniss/star-wars-api)
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/starwarsapp)
-* [Fernando Soares](https://github.com/fernandohfs/star-wars-api)
+* [Fernando Soares](https://github.com/fernandohfs/unifacef-instagram-fake)
 * [CLEVELANDIO MARGIO DA SILVA](https://github.com/Paratiy/https-github.com-Paratiy-typescript-unifacef-aula3-novomeu2-api)
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarWarsAPI)
 * [Iago Bettarello](https://github.com/bettarelloiago/star-wars-api)
