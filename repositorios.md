@@ -23,6 +23,7 @@
 * [Caio Santos Freitas](https://github.com/caiosantosf/etanol-ou-gasolina-react-native)
 * [Éder Martins](https://github.com/caniss/calcular-imc)
 * [Loner Patti](https://github.com/lonerpatti/combustivel2)
+* [Rafael Ortolani](https://github.com/rafaelortolani/etanolGasolina)
 
 ## Trabalho Star Wars - APP
 
@@ -53,6 +54,7 @@
 * [Caio Silva](https://github.com/CaioSilvaSilva/star-wars-app)
 * [Loner Ribeiro Patti](https://github.com/lonerpatti/star-wars-app)
 * [André Luis Borges](https://github.com/Andre-Borges/StarWars-App)
+* [Rafael Ortolani](https://github.com/rafaelortolani/star-wars-app)
 
 ## Trabalho Star Wars - API
 
@@ -83,6 +85,7 @@
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
 * [Loner Ribeiro Patti](https://github.com/lonerpatti/star-wars-api)
 * [André Luis Borges](https://github.com/Andre-Borges/StarWars-Api)
+* [Rafael Ortolani](https://github.com/rafaelortolani/starWars)
 
 ## Instagram Fake
 
@@ -113,3 +116,5 @@
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
 * [Loner Ribeiro Patti](https://github.com/lonerpatti/star-wars-api)
 * [André Luis Borges](https://github.com/Andre-Borges/StarWars-Api)
+* [Rafael Ortolani](https://github.com/rafaelortolani/InstagramFake)
+
