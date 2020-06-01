@@ -86,6 +86,7 @@
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
 * [Loner Ribeiro Patti](https://github.com/lonerpatti/star-wars-api)
 * [André Luis Borges](https://github.com/Andre-Borges/StarWars-Api)
+* [Rafael Ortolani](https://github.com/rafaelortolani/starWars)
 * [Caio Silva](https://github.com/CaioSilvaSilva/star-wars-api)
 
 ## Instagram Fake
@@ -95,7 +96,7 @@
 * [Gabriel Chiarelo](https://github.com/gabrielborc/instagram-fake)
 * [Danilo S. Andrade](https://github.com/daniloandrade47/React_Unifacef_Instagram)
 * [Bruno Brancalhão](https://github.com/brunobrancalhao/instagram-fake)
-* [Alex Felipe Barbosa]()
+* [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/unifacefgram)
 * [Rafael Henrique de Morais](https://github.com/rhMorais/Unifacef-Instagram)
 * [Danilo Alves](https://github.com/daniloalves19/instagramfacef-app)
 * [Caio Cesar Alves Borges]()
