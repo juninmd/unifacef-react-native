@@ -83,7 +83,6 @@
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarWarsAPI)
 * [Iago Bettarello](https://github.com/bettarelloiago/star-wars-api)
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
-* [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
 * [Loner Ribeiro Patti](https://github.com/lonerpatti/star-wars-api)
 * [André Luis Borges](https://github.com/Andre-Borges/StarWars-Api)
 * [Rafael Ortolani](https://github.com/rafaelortolani/starWars)
