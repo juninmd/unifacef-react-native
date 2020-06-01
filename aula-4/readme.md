@@ -760,6 +760,9 @@ Altere o arquivo home.store dentro de
 > src/stores/home.store.tsx
 
 ```ts
+
+  @observable loading: boolean = false;
+
   @action getPosts = async () => {
     this.loading = true
     try {
@@ -780,7 +783,11 @@ dentro de
 > src/containers/home
 
 ```ts
-  async componentDidMount() {
+  componentDidMount() {
+    this.getPosts()
+  }
+
+  async getPosts() {
     const { getPosts } = this.props.homeStore;
     try {
       await getPosts();
@@ -790,18 +797,17 @@ dentro de
         "Erro",
         error.message
       );
-      console.log(error);
     }
   }
 ```
 
 ```tsx
- const { posts, photoReady, toogleStatus, addPost, loading, getPosts } = this.props.homeStore;
+ const { posts, photoReady, toogleStatus, addPost, loading } = this.props.homeStore;
 ```
 
 ```tsx
 <ScrollView refreshControl={
-  <RefreshControl refreshing={loading} onRefresh={() => getPosts()} />
+  <RefreshControl refreshing={loading} onRefresh={() => this.getPosts()} />
 }>
 ```
 
@@ -816,6 +822,16 @@ Adicione uma nova permissão
 ---
 
 Alterando ícones do app
+
+## Site 1
+
+<https://appicon.co/>
+
+Baixe o Zip acesse o seguinte endereço, descompacte e copie os itens da pasta android em
+
+> android\app\src\main\res
+
+## Site 2
 
 Gere um e-mail temporário
 <https://temp-mail.org>

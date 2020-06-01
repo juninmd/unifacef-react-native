@@ -23,6 +23,9 @@
 * [Caio Santos Freitas](https://github.com/caiosantosf/etanol-ou-gasolina-react-native)
 * [Éder Martins](https://github.com/caniss/calcular-imc)
 * [Loner Patti](https://github.com/lonerpatti/combustivel2)
+* [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/etanol-gasolina)
+* [Rafael Ortolani](https://github.com/rafaelortolani/etanolGasolina)
+
 
 ## Trabalho Star Wars - APP
 
@@ -53,6 +56,7 @@
 * [Caio Silva](https://github.com/CaioSilvaSilva/star-wars-app)
 * [Loner Ribeiro Patti](https://github.com/lonerpatti/star-wars-app)
 * [André Luis Borges](https://github.com/Andre-Borges/StarWars-App)
+* [Rafael Ortolani](https://github.com/rafaelortolani/star-wars-app)
 
 ## Trabalho Star Wars - API
 
@@ -83,33 +87,35 @@
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
 * [Loner Ribeiro Patti](https://github.com/lonerpatti/star-wars-api)
 * [André Luis Borges](https://github.com/Andre-Borges/StarWars-Api)
+* [Rafael Ortolani](https://github.com/rafaelortolani/starWars)
 
 ## Instagram Fake
 
-* [Fabricio Coutinho de Medeiros]()
+* [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/pos_instragran.git)
 * [Willyan Luindayk Machado]()
-* [Gabriel Chiarelo]()
-* [Danilo S. Andrade]()
-* [Bruno Brancalhão]()
+* [Gabriel Chiarelo](https://github.com/gabrielborc/instagram-fake)
+* [Danilo S. Andrade](https://github.com/daniloandrade47/React_Unifacef_Instagram)
+* [Bruno Brancalhão](https://github.com/brunobrancalhao/instagram-fake)
 * [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/StarWars_api.git)
-* [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-api)
-* [Danilo Alves](https://github.com/daniloalves19/starwars-api)
+* [Rafael Henrique de Morais](https://github.com/rhMorais/Unifacef-Instagram)
+* [Danilo Alves](https://github.com/daniloalves19/instagramfacef-app)
 * [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-api)
 * [Miguel Molina](https://github.com/miguelmolina78/starwars-app)
 * [Luismar Pavani](https://github.com/LuismarPavani/star-wars-api)
-* [Caio Santos Freitas](https://github.com/caiosantosf/star-wars-api-nodejs)
+* [Caio Santos Freitas](https://github.com/caiosantosf/instagram-react-native)
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarWarsAPI)
 * [Everson Pereira](https://github.com/eversonpereira/starwars)
 * [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
 * [Murilo Scapim](https://github.com/murilo-scapim/star-wars-api-unifacef)
-* [Bruno Pádua](https://github.com/brunopadua05/star-wars-api)
+* [Bruno Pádua](https://github.com/brunopadua05/instagramFake)
 * [Éder Martins](https://github.com/caniss/star-wars-api)
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/starwarsapp)
-* [Fernando Soares](https://github.com/fernandohfs/star-wars-api)
+* [Fernando Soares](https://github.com/fernandohfs/unifacef-instagram-fake)
 * [CLEVELANDIO MARGIO DA SILVA](https://github.com/Paratiy/posfacef.mobile.antonio.aula4_meu)
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarWarsAPI)
 * [Iago Bettarello](https://github.com/bettarelloiago/star-wars-api)
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
 * [Loner Ribeiro Patti](https://github.com/lonerpatti/star-wars-api)
-* [André Luis Borges](https://github.com/Andre-Borges/StarWars-Api)
+* [André Luis Borges](https://github.com/Andre-Borges/instagram-fake-facef)
+* [Rafael Ortolani](https://github.com/rafaelortolani/InstagramFake)
