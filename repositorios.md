@@ -97,7 +97,7 @@
 * [Danilo S. Andrade]()
 * [Bruno Brancalhão](https://github.com/brunobrancalhao/instagram-fake)
 * [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/StarWars_api.git)
-* [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-api)
+* [Rafael Henrique de Morais](https://github.com/rhMorais/Unifacef-Instagram)
 * [Danilo Alves](https://github.com/daniloalves19/instagramfacef-app)
 * [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-api)
 * [Miguel Molina](https://github.com/miguelmolina78/starwars-app)
