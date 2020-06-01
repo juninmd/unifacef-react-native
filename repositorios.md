@@ -23,6 +23,7 @@
 * [Caio Santos Freitas](https://github.com/caiosantosf/etanol-ou-gasolina-react-native)
 * [Éder Martins](https://github.com/caniss/calcular-imc)
 * [Loner Patti](https://github.com/lonerpatti/combustivel2)
+* [Caio Silva](https://github.com/CaioSilvaSilva/gasolina)
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/etanol-gasolina)
 * [Rafael Ortolani](https://github.com/rafaelortolani/etanolGasolina)
 
@@ -85,7 +86,7 @@
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
 * [Loner Ribeiro Patti](https://github.com/lonerpatti/star-wars-api)
 * [André Luis Borges](https://github.com/Andre-Borges/StarWars-Api)
-* [Rafael Ortolani](https://github.com/rafaelortolani/starWars)
+* [Caio Silva](https://github.com/CaioSilvaSilva/star-wars-api)
 
 ## Instagram Fake
 
@@ -115,3 +116,4 @@
 * [Loner Ribeiro Patti]()
 * [André Luis Borges](https://github.com/Andre-Borges/instagram-fake-facef)
 * [Rafael Ortolani](https://github.com/rafaelortolani/InstagramFake)
+* [Caio Silva](https://github.com/CaioSilvaSilva/fake-instagram)
