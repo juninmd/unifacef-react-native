@@ -112,4 +112,4 @@
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-api)
 * [Loner Ribeiro Patti](https://github.com/lonerpatti/star-wars-api)
-* [André Luis Borges](https://github.com/Andre-Borges/StarWars-Api)
+* [André Luis Borges](https://github.com/Andre-Borges/instagram-fake-facef)
