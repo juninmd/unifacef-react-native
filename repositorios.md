@@ -56,6 +56,7 @@
 * [Loner Ribeiro Patti](https://github.com/lonerpatti/star-wars-app)
 * [André Luis Borges](https://github.com/Andre-Borges/StarWars-App)
 * [Rafael Ortolani](https://github.com/rafaelortolani/star-wars-app)
+* [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/star-wars-app)
 
 ## Trabalho Star Wars - API
 
@@ -112,7 +113,7 @@
 * [Fernando Soares](https://github.com/fernandohfs/unifacef-instagram-fake)
 * [CLEVELANDIO MARGIO DA SILVA](https://github.com/Paratiy/posfacef.mobile.antonio.aula4_meu)
 * [Iago Bettarello (Faltando)]()
-* [Kenneth Gottschalk de Azevedo (Faltando)]()
+* [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/insta-fake)
 * [Loner Ribeiro Patti (Faltando)]()
 * [André Luis Borges (Faltando)](https://github.com/Andre-Borges/instagram-fake-facef)
 * [Rafael Ortolani](https://github.com/rafaelortolani/InstagramFake)
