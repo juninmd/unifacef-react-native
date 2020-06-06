@@ -103,7 +103,7 @@
 * [Luismar Pavani (Faltando)]()
 * [Lucas Rafael](https://github.com/lukasrafael1407/Instagram)
 * [Caio Santos Freitas](https://github.com/caiosantosf/instagram-react-native)
-* [Everson Pereira (Faltando)]()
+* [Everson Pereira](https://github.com/eversonpereira/instagram)
 * [Fernando Soares (Faltando)]()
 * [Murilo Scapim (Faltando)]()
 * [Bruno Pádua](https://github.com/brunopadua05/instagramFake)
