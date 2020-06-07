@@ -26,6 +26,7 @@
 * [Caio Silva](https://github.com/CaioSilvaSilva/gasolina)
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/etanol-gasolina)
 * [Rafael Ortolani](https://github.com/rafaelortolani/etanolGasolina)
+* [Murilo Scapim](https://github.com/murilo-scapim/etanol-gasolina)
 
 ## Trabalho Star Wars - APP
 
@@ -44,7 +45,7 @@
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarsWarsApp)
 * [Everson Pereira](https://github.com/eversonpereira/starwars)
 * [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
-* [Murilo Scapim](https://github.com/murilo-scapim/star-wars-api-unifacef)
+* [Murilo Scapim](https://github.com/murilo-scapim/star-wars-app)
 * [Bruno Pádua](https://github.com/brunopadua05/star-wars-app)
 * [Éder Martins](https://github.com/caniss/star-wars-app)
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/starwarsapp)
@@ -74,7 +75,7 @@
 * [Lucas Rafael](https://github.com/lukasrafael1407/StarWarsAPI)
 * [Everson Pereira](https://github.com/eversonpereira/starwars)
 * [Fernando Soares](https://github.com/fernandohfs/star-wars-app)
-* [Murilo Scapim](https://github.com/murilo-scapim/star-wars-api-unifacef)
+* [Murilo Scapim](https://github.com/murilo-scapim/star-wars-api)
 * [Bruno Pádua](https://github.com/brunopadua05/star-wars-api)
 * [Éder Martins](https://github.com/caniss/star-wars-api)
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/starwarsapp)
@@ -105,7 +106,7 @@
 * [Caio Santos Freitas](https://github.com/caiosantosf/instagram-react-native)
 * [Everson Pereira (Faltando)]()
 * [Fernando Soares (Faltando)]()
-* [Murilo Scapim (Faltando)]()
+* [Murilo Scapim](https://github.com/murilo-scapim/unifacef-fake-instagram)
 * [Bruno Pádua](https://github.com/brunopadua05/instagramFake)
 * [Éder Martins (Faltando)]()
 * [Ryhan Gustavo Brunello](https://github.com/ryhangbrunello/instagram)
