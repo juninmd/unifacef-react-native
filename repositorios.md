@@ -113,7 +113,7 @@
 * [CLEVELANDIO MARGIO DA SILVA](https://github.com/Paratiy/posfacef.mobile.antonio.aula4_meu)
 * [Iago Bettarello (Faltando)]()
 * [Kenneth Gottschalk de Azevedo (Faltando)]()
-* [Loner Ribeiro Patti (Faltando)]()
+* [Loner Ribeiro Patti (OK)](https://github.com/lonerpatti/unifacef-instagram)
 * [André Luis Borges (Faltando)](https://github.com/Andre-Borges/instagram-fake-facef)
 * [Rafael Ortolani](https://github.com/rafaelortolani/InstagramFake)
 * [Caio Silva](https://github.com/CaioSilvaSilva/fake-instagram)
