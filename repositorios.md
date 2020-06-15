@@ -100,7 +100,7 @@
 * [Danilo Alves](https://github.com/daniloalves19/instagramfacef-app)
 * [Caio Cesar Alves Borges](https://github.com/caioborges89/unifacef-instagram)
 * [Miguel Molina (Faltando)]()
-* [Luismar Pavani (Faltando)]()
+* [Luismar Pavani](https://github.com/LuismarPavani/Instagram_Fake)
 * [Lucas Rafael](https://github.com/lukasrafael1407/Instagram)
 * [Caio Santos Freitas](https://github.com/caiosantosf/instagram-react-native)
 * [Everson Pereira](https://github.com/eversonpereira/instagram)
