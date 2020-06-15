@@ -98,7 +98,7 @@
 * [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/unifacefgram)
 * [Rafael Henrique de Morais](https://github.com/rhMorais/Unifacef-Instagram)
 * [Danilo Alves](https://github.com/daniloalves19/instagramfacef-app)
-* [Caio Cesar Alves Borges (Faltando)]()
+* [Caio Cesar Alves Borges](https://github.com/caioborges89/unifacef-instagram)
 * [Miguel Molina (Faltando)]()
 * [Luismar Pavani (Faltando)]()
 * [Lucas Rafael](https://github.com/lukasrafael1407/Instagram)
